@@ -1,0 +1,8 @@
+C:\Informatika\HW5\HW_5\bin\Debug\HW_5.exe.config
+C:\Informatika\HW5\HW_5\bin\Debug\HW_5.exe
+C:\Informatika\HW5\HW_5\bin\Debug\HW_5.pdb
+C:\Informatika\HW5\HW_5\obj\Debug\HW_5.csproj.AssemblyReference.cache
+C:\Informatika\HW5\HW_5\obj\Debug\HW_5.csproj.SuggestedBindingRedirects.cache
+C:\Informatika\HW5\HW_5\obj\Debug\HW_5.csproj.CoreCompileInputs.cache
+C:\Informatika\HW5\HW_5\obj\Debug\HW_5.exe
+C:\Informatika\HW5\HW_5\obj\Debug\HW_5.pdb
